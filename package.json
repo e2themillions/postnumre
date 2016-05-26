@@ -1,0 +1,23 @@
+{
+  "name": "postnumre",
+  "version": "1.0.0",
+  "description": "Get city names from zip codes (Danish)",
+  "main": "lib/postnumre.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e2themillions/postnumre.git"
+  },
+  "keywords": [
+    "postnumre",
+    "postnummer"
+  ],
+  "author": "Emil Rossing",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/e2themillions/postnumre/issues"
+  },
+  "homepage": "https://github.com/e2themillions/postnumre#readme"
+}
